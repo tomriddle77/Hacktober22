@@ -21,10 +21,9 @@ def compute_cost_linear_reg(X, y, w, b, lambda_ = 1):
     m  = X.shape[0]
     n  = len(w)
     cost = 0.
-    for i in range(m):
-        f_wb_i = np.dot(X[i], w) + b                                   #(n,)(n,)=scalar, see np.dot
-        cost = cost + (f_wb_i - y[i])**2                               #scalar             
-    cost = cost / (2 * m)                                              #scalar  
+   #####WRITE COST function CODE  HERE
+   
+   ##### 
  
     reg_cost = 0
     for j in range(n):
