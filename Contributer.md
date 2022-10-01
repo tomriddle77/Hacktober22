@@ -9,9 +9,9 @@ GITHUB : Github handle Link <br>
 INSTITUTE/COMPANY : College Name/Comapny Name <br>
 DOMAIN/LANGUGAE YOU HAD CONTRIBUTED TO :PYTHON || JAVA || DATA-SCIENCE ||--  <br>
 
-```
-### Copy the template and append your data below :
 
+### Copy the template and append your data below :
+```
 -----
 
 NAME :  <br>
@@ -20,46 +20,17 @@ INSTITUTE/COMPANY : College Name/Comapny Name <br>
 DOMAIN/LANGUGAE : <br>
 
 ------
-
+```
 Sample Data after appending the data it looks like :
 
 -----
-NAME :  Saurabh Kumar <br>
-
-
-
-GITHUB :  github.com/py3-coder <br>
-INSTITUTE/COMPANY : Galgotias University <br>
+NAME :  Tom Riddle <br>
+GITHUB :  github.com/tomriddle77 <br>
+INSTITUTE/COMPANY : HOGWARTS<br>
 DOMAIN: Data Science <br>
-------
-
 -----
-NAME : Ayush Bajaj<br>
-GITHUB : abhijeet49<br>
-INSTITUTE/COMPANY : Galgotias University<br>
-DOMAIN/LANGUGAE : Android Development/JAVA<br>
 -----
 
----------
-NAME : Ishita Biswas
-GITHUB : ishistarx
-INSTITUTE/COMPANY : IEM
-DOMAIN/LANGUGAE : Python
-----------
-
------
-NAME : Saurabh Kumar<br>
-GITHUB : github.com/runtime-error2905<br>
-INSTITUTE/COMPANY : Galgotias College <br>
-DOMAIN/LANGUGAE : JAVA<br>
------
-
-NAME :  Amit Kumar<br>
-GITHUB :  SideWinder1999<br>
-INSTITUTE/COMPANY : GLA University<br>
-DOMAIN/LANGUGAE : JAVA<br>
------
-````
 NAME :  Swoyam Siddharth Nayak<br>
 GITHUB :  Swoyam2609<br>
 INSTITUTE/COMPANY : IIIT Bhubaneswar<br>
