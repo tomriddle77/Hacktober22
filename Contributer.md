@@ -71,5 +71,8 @@ INSTITUTE/COMPANY : MODERN EDUCATION SOCIETY'S COLLEGE OF ENGINEERING,PUNE <br>
 DOMAIN/LANGUGAE : PYTHON<br>
 
 ------
-
+NAME : Puneet Singh
+GITHUB : https://github.com/its-puneet
+INSTITUTE/COMPANY : Capgemini
+DOMAIN: Python
 
