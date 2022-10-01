@@ -59,6 +59,13 @@ GITHUB :  SideWinder1999<br>
 INSTITUTE/COMPANY : GLA University<br>
 DOMAIN/LANGUGAE : JAVA<br>
 
+-----
+NAME : Palash Burad<br>
+GITHUB : palash9561<br>
+INSTITUTE/COMPANY : Pune University <br>
+DOMAIN/LANGUGAE : PYTHON<br>
+-----
+
 
 
 
