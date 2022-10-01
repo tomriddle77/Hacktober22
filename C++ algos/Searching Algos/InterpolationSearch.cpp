@@ -42,7 +42,7 @@ int interpolationSearch(int arr[], int n, int x)
 // Driver Code
 int main()
 {
-    //Sample array for demonstrating the workout of the algorithm
+    // Sample array for demonstrating the workout of the algorithm
     int arr[] = {10, 12, 13, 16, 18, 19, 20, 21,
                  22, 23, 24, 33, 35, 42, 47};
     int n = sizeof(arr) / sizeof(arr[0]);
