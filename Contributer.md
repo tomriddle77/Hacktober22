@@ -59,6 +59,13 @@ GITHUB :  SideWinder1999<br>
 INSTITUTE/COMPANY : GLA University<br>
 DOMAIN/LANGUGAE : JAVA<br>
 
+-----
 
+NAME :  Sanchita Karmakar<br>
+GITHUB :  https://github.com/SanBuilds<br>
+INSTITUTE/COMPANY : Tiger Analytics <br>
+DOMAIN/LANGUGAE : Python||Data-Science<br>
+
+------
 
 
