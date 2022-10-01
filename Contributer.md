@@ -64,6 +64,12 @@ NAME :  Swoyam Siddharth Nayak<br>
 GITHUB :  Swoyam2609<br>
 INSTITUTE/COMPANY : IIIT Bhubaneswar<br>
 DOMAIN/LANGUGAE : C++<br>
+-----
+
+NAME :  Vidhi Angrish<br>
+GITHUB :  vd152<br>
+INSTITUTE/COMPANY : Maharaja Surajmal Institute of Technology<br>
+DOMAIN/LANGUGAE : C++<br>
 
 
 
