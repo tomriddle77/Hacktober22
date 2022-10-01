@@ -52,7 +52,7 @@ DOMAIN/LANGUGAE : Python||Data-Science<br>
 -----
 
 NAME :  Shreya Prasad <br>
-GITHUB : github.com/shreyap05 <br>
+GITHUB :  https://github.com/shreyap05 <br>
 INSTITUTE/COMPANY : University of Engineering and Management, Kolkata <br>
 DOMAIN/LANGUGAE : Java, Python, C<br>
 
