@@ -42,6 +42,14 @@ GITHUB :  vd152<br>
 INSTITUTE/COMPANY : Maharaja Surajmal Institute of Technology<br>
 DOMAIN/LANGUGAE : C++<br>
 
+-----
+
+NAME :  Nikhil Sharma<br>
+GITHUB : github.com/NikhilCode12<br>
+INSTITUTE/COMPANY : Maharaja Surajmal Institute of Technology<br>
+DOMAIN/LANGUGAE : JAVA<br>
+
+------
 
 
 
