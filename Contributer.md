@@ -9,7 +9,7 @@ GITHUB : Github handle Link <br>
 INSTITUTE/COMPANY : College Name/Comapny Name <br>
 DOMAIN/LANGUGAE YOU HAD CONTRIBUTED TO :PYTHON || JAVA || DATA-SCIENCE ||--  <br>
 
-
+```
 ### Copy the template and append your data below :
 
 -----
@@ -59,7 +59,7 @@ GITHUB :  SideWinder1999<br>
 INSTITUTE/COMPANY : GLA University<br>
 DOMAIN/LANGUGAE : JAVA<br>
 -----
-
+````
 NAME :  Swoyam Siddharth Nayak<br>
 GITHUB :  Swoyam2609<br>
 INSTITUTE/COMPANY : IIIT Bhubaneswar<br>
