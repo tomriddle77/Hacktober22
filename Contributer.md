@@ -65,6 +65,12 @@ GITHUB :  Swoyam2609<br>
 INSTITUTE/COMPANY : IIIT Bhubaneswar<br>
 DOMAIN/LANGUGAE : C++<br>
 
+-----
+
+NAME :  Cho Maro<br>
+GITHUB :  Maglionaire<br>
+INSTITUTE/COMPANY : KMITL<br>
+DOMAIN/LANGUGAE : Typescript<br>
 
 
 
