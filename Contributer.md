@@ -72,4 +72,8 @@ DOMAIN/LANGUGAE : PYTHON<br>
 
 ------
 
+NAME : Mayank Gupta<br>
+GITHUB :  https://github.com/Maykkkk<br>
+INSTITUTE/COMPANY : Indian Institute of Technology BHU, Varanasi <br>
+DOMAIN/LANGUGAE : C++<br>
 
