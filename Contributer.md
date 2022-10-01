@@ -58,6 +58,12 @@ NAME :  Amit Kumar<br>
 GITHUB :  SideWinder1999<br>
 INSTITUTE/COMPANY : GLA University<br>
 DOMAIN/LANGUGAE : JAVA<br>
+-----
+
+NAME :  Swoyam Siddharth Nayak<br>
+GITHUB :  Swoyam2609<br>
+INSTITUTE/COMPANY : IIIT Bhubaneswar<br>
+DOMAIN/LANGUGAE : C++<br>
 
 -----
 
