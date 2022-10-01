@@ -44,10 +44,17 @@ DOMAIN/LANGUGAE : C++<br>
 
 -----
 
-NAME :  Sanchita Karmakar<br>
-GITHUB :  https://github.com/SanBuilds<br>
-INSTITUTE/COMPANY : Tiger Analytics <br>
-DOMAIN/LANGUGAE : Python||Data-Science<br>
+NAME :  Vidhi Angrish<br>
+GITHUB :  vd152<br>
+INSTITUTE/COMPANY : Maharaja Surajmal Institute of Technology<br>
+DOMAIN/LANGUGAE : C++<br>
+
+-----
+
+NAME :  Cho Maro<br>
+GITHUB :  Maglionaire<br>
+INSTITUTE/COMPANY : KMITL<br>
+DOMAIN/LANGUGAE : Typescript<br>
 
 -----
 
