@@ -1,4 +1,4 @@
-# CONTRIBUTORS
+﻿# CONTRIBUTORS
 
 # Template to Follow
 
@@ -48,6 +48,13 @@ NAME :  Sanchita Karmakar<br>
 GITHUB :  https://github.com/SanBuilds<br>
 INSTITUTE/COMPANY : Tiger Analytics <br>
 DOMAIN/LANGUGAE : Python||Data-Science<br>
+
+------
+
+NAME :  Reet Khare<br>
+GITHUB :  https://github.com/RaniK27<br>
+INSTITUTE/COMPANY : PICT <br>
+DOMAIN/LANGUGAE : Python<br>
 
 ------
 
