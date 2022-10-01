@@ -50,5 +50,8 @@ INSTITUTE/COMPANY : Tiger Analytics <br>
 DOMAIN/LANGUGAE : Python||Data-Science<br>
 
 ------
-
+NAME : Puneet Singh
+GITHUB : https://github.com/its-puneet
+INSTITUTE/COMPANY : Capgemini
+DOMAIN: Python
 
