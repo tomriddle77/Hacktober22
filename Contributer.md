@@ -42,6 +42,13 @@ GITHUB :  vd152<br>
 INSTITUTE/COMPANY : Maharaja Surajmal Institute of Technology<br>
 DOMAIN/LANGUGAE : C++<br>
 
+-----
+NAME : Palash Burad<br>
+GITHUB : palash9561<br>
+INSTITUTE/COMPANY : Pune University <br>
+DOMAIN/LANGUGAE : PYTHON<br>
+-----
+
 
 
 
