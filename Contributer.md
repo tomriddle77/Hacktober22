@@ -54,6 +54,13 @@ INSTITUTE/COMPANY : Maharaja Surajmal Institute of Technology<br>
 >>>>>>> a853cfa90668dd17a32d58a899c3e72e7f9924ec
 DOMAIN/LANGUGAE : C++<br>
 
+-----
 
+NAME :  Sanchita Karmakar<br>
+GITHUB :  https://github.com/SanBuilds<br>
+INSTITUTE/COMPANY : Tiger Analytics <br>
+DOMAIN/LANGUGAE : Python||Data-Science<br>
+
+------
 
 
