@@ -42,6 +42,13 @@ GITHUB :  vd152<br>
 INSTITUTE/COMPANY : Maharaja Surajmal Institute of Technology<br>
 DOMAIN/LANGUGAE : C++<br>
 
+-----
 
+NAME :  Sanchita Karmakar<br>
+GITHUB :  https://github.com/SanBuilds<br>
+INSTITUTE/COMPANY : Tiger Analytics <br>
+DOMAIN/LANGUGAE : Python||Data-Science<br>
+
+------
 
 
