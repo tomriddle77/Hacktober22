@@ -72,4 +72,11 @@ DOMAIN/LANGUGAE : PYTHON<br>
 
 ------
 
+NAME :  Roshan Kumar<br>
+GITHUB :  https://github.com/coderoshan18093<br>
+INSTITUTE/COMPANY : University of Engineering and Management, Jaipur <br>
+DOMAIN/LANGUGAE : Python <br>
+
+
+------
 
