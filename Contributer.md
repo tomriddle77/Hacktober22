@@ -42,6 +42,12 @@ GITHUB :  vd152<br>
 INSTITUTE/COMPANY : Maharaja Surajmal Institute of Technology<br>
 DOMAIN/LANGUGAE : C++<br>
 
+-----
+
+NAME :  Dibyajit Tripathy<br>
+GITHUB :  DibyajitTripathy<br>
+INSTITUTE/COMPANY : Institute Of thechnical Education and Reserch<br>
+DOMAIN/LANGUGAE : Java<br>
 
 
 
