@@ -49,6 +49,13 @@ GITHUB :  https://github.com/SanBuilds<br>
 INSTITUTE/COMPANY : Tiger Analytics <br>
 DOMAIN/LANGUGAE : Python||Data-Science<br>
 
+-----
+
+NAME :  Shreya Prasad <br>
+GITHUB : github.com/shreyap05 <br>
+INSTITUTE/COMPANY : University of Engineering and Management, Kolkata <br>
+DOMAIN/LANGUGAE : Java, Python, C<br>
+
 ------
 
 
