@@ -51,4 +51,11 @@ DOMAIN/LANGUGAE : Python||Data-Science<br>
 
 ------
 
+NAME : ADITYA MANDAGE  <br>
+GITHUB :  https://github.com/AdityaMandage<br>
+INSTITUTE/COMPANY : MODERN EDUCATION SOCIETY'S COLLEGE OF ENGINEERING,PUNE <br>
+DOMAIN/LANGUGAE : PYTHON<br>
+
+------
+
 
