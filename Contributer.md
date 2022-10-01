@@ -37,9 +37,21 @@ INSTITUTE/COMPANY : IIIT Bhubaneswar<br>
 DOMAIN/LANGUGAE : C++<br>
 -----
 
+<<<<<<< HEAD
+NAME :  Amit Kumar<br>
+GITHUB :  SideWinder1999<br>
+INSTITUTE/COMPANY : GLA University<br>
+DOMAIN/LANGUGAE : JAVA<br>
+-----
+
+NAME :  Swoyam Siddharth Nayak<br>
+GITHUB :  Swoyam2609<br>
+INSTITUTE/COMPANY : IIIT Bhubaneswar<br>
+=======
 NAME :  Vidhi Angrish<br>
 GITHUB :  vd152<br>
 INSTITUTE/COMPANY : Maharaja Surajmal Institute of Technology<br>
+>>>>>>> a853cfa90668dd17a32d58a899c3e72e7f9924ec
 DOMAIN/LANGUGAE : C++<br>
 
 -----
