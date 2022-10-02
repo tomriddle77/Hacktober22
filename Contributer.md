@@ -72,4 +72,14 @@ DOMAIN/LANGUGAE : PYTHON<br>
 
 ------
 
+------
+
+NAME : ISHAAN KULKARNI  <br>
+GITHUB :  https://github.com/ishaan49k<br>
+INSTITUTE/COMPANY : NETAJI SUBHAS UNIVERSITY OF TECHNOLOGY, NEW DELHI <br>
+DOMAIN/LANGUGAE : C++<br>
+
+------
+
+
 
