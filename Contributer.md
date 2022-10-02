@@ -1,4 +1,4 @@
-# CONTRIBUTORS
+﻿# CONTRIBUTORS
 
 # Template to Follow
 
@@ -69,6 +69,13 @@ NAME : ADITYA MANDAGE  <br>
 GITHUB :  https://github.com/AdityaMandage<br>
 INSTITUTE/COMPANY : MODERN EDUCATION SOCIETY'S COLLEGE OF ENGINEERING,PUNE <br>
 DOMAIN/LANGUGAE : PYTHON<br>
+
+------
+
+NAME :  Reet Khare<br>
+GITHUB :  https://github.com/RaniK27<br>
+INSTITUTE/COMPANY : PICT <br>
+DOMAIN/LANGUGAE : Python<br>
 
 ------
 
