@@ -70,6 +70,13 @@ GITHUB :  https://github.com/AdityaMandage<br>
 INSTITUTE/COMPANY : MODERN EDUCATION SOCIETY'S COLLEGE OF ENGINEERING,PUNE <br>
 DOMAIN/LANGUGAE : PYTHON<br>
 
+-----
+
+NAME :  Shreya Prasad <br>
+GITHUB :  https://github.com/shreyap05 <br>
+INSTITUTE/COMPANY : University of Engineering and Management, Kolkata <br>
+DOMAIN/LANGUGAE : Java, Python, C<br>
+
 ------
 
 
