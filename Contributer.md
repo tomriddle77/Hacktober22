@@ -70,6 +70,11 @@ GITHUB :  https://github.com/AdityaMandage<br>
 INSTITUTE/COMPANY : MODERN EDUCATION SOCIETY'S COLLEGE OF ENGINEERING,PUNE <br>
 DOMAIN/LANGUGAE : PYTHON<br>
 
+-----
+
+NAME : Smruti Ranjan <br>
+GITHUB :  https://github.com/c99SRS <br>
+INSTITUTE/COMPANY : IIIT <br>
+DOMAIN/LANGUGAE : Java <br>
+
 ------
-
-
