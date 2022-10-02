@@ -72,4 +72,13 @@ DOMAIN/LANGUGAE : PYTHON<br>
 
 ------
 
+NAME : JAYDIP SIDDHAPURA <br>
+
+GITHUB : https://github.com/jaydipoo7<br>
+
+INSTITUTE/COMPANY : GIT <br>
+
+DOMAIN/LANGUGAE : PYTHON <br>
+
+------
 
