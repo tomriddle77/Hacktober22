@@ -72,4 +72,12 @@ DOMAIN/LANGUGAE : PYTHON<br>
 
 ------
 
+NAME : TAYYAB HUSSAIN  <br>
+GITHUB : https://github.com/TayyabHussain03  <br>
+INSTITUTE/COMPANY : NED University Karachi, Pakistan <br>
+DOMAIN/LANGUGAE : Computer Science <br>
+
+------
+
+
 
