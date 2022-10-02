@@ -72,4 +72,11 @@ DOMAIN/LANGUGAE : PYTHON<br>
 
 ------
 
+NAME : DEVARSHI TRIVEDI <br>
+GITHUB : https://github.com/devarshitrivedi01<br>
+INSTITUTE/COMPANY : V.V.P. ENGINEERING COLLEGE, RAJKOT <br>
+DOMAIN/LANGUGAE : C++<br>
+
+---
+
 
