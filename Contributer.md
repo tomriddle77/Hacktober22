@@ -37,9 +37,9 @@ INSTITUTE/COMPANY : IIIT Bhubaneswar<br>
 DOMAIN/LANGUGAE : C++<br>
 -----
 
-NAME :  Vidhi Angrish<br>
-GITHUB :  vd152<br>
-INSTITUTE/COMPANY : Maharaja Surajmal Institute of Technology<br>
+NAME :  Ashish Kumar<br>
+GITHUB :  https://github.com/ashish-parjapat<br>
+INSTITUTE/COMPANY : UIET,Rohtak<br>
 DOMAIN/LANGUGAE : C++<br>
 
 -----
