@@ -72,4 +72,13 @@ DOMAIN/LANGUGAE : PYTHON<br>
 
 ------
 
+-----
+
+NAME :  Nikhil Sharma <br>
+GITHUB :  https://github.com/NikhilCode12 <br>
+INSTITUTE/COMPANY : Maharaja Surajmal Institute of Technology <br>
+DOMAIN/LANGUGAE : JAVA <br>
+
+------
+
 
