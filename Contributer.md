@@ -72,4 +72,10 @@ DOMAIN/LANGUGAE : PYTHON<br>
 
 ------
 
+NAME : Lokesh Katari  <br>
+GITHUB :  https://github.com/lokesh-katari<br>
+INSTITUTE/COMPANY : GMR Institute OF Technology<br>
+DOMAIN/LANGUGAE : pythonL<br>
+
+------
 
