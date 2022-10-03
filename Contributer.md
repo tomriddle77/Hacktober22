@@ -72,4 +72,13 @@ DOMAIN/LANGUGAE : PYTHON<br>
 
 ------
 
+------
+
+NAME : Gurkeerat Singh <br>
+GITHUB : https://github.com/Keerat666<br>
+INSTITUTE/COMPANY : Infosys<br>
+DOMAIN/LANGUGAE : Java<br>
+
+------
+
 
