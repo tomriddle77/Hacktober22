@@ -72,4 +72,10 @@ DOMAIN/LANGUGAE : PYTHON<br>
 
 ------
 
+NAME :  Bhaarath C S<br>
+GITHUB :  https://github.com/bharath-acchu<br>
+INSTITUTE/COMPANY : Temenos India Pvt.ltd <br>
+DOMAIN/LANGUGAE : Python<br>
+
+------
 
