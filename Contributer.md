@@ -72,4 +72,10 @@ DOMAIN/LANGUGAE : PYTHON<br>
 
 ------
 
+NAME :  Ananya Gupta<br>
+GITHUB :  https://github.com/ananya1907/<br>
+INSTITUTE/COMPANY : Medi-Caps University, Indore <br>
+DOMAIN/LANGUGAE : JAVA<br>
+
+------
 
