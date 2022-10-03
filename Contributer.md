@@ -72,6 +72,12 @@ DOMAIN/LANGUGAE : PYTHON<br>
 
 ------
 
+NAME :  VIVEK DHAREWA<br>
+GITHUB : https://github.com/Vice777 <br>
+INSTITUTE/COMPANY : Vellore Institute of Technology <br>
+DOMAIN/LANGUGAE : PYTHON<br>
+
+------
 
 NAME : KRINISH RADADIYA  <br>
 GITHUB :  https://github.com/krinish291<br>
