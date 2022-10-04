@@ -79,4 +79,18 @@ DOMAIN/LANGUGAE : Java<br>
 
 ------
 
+=======
+NAME : PRITIKA BHAR <br>
+GITHUB :    https://github.com/pritika163 <br>
+INSTITUTE/COMPANY : ACADEMY OF TECHNOLOGY, ADISAPTAGRAM <br>
+DOMAIN/LANGUGAE : JAVA <br>
+
+ 
+------
+NAME : KRINISH RADADIYA  <br>
+GITHUB :  https://github.com/krinish291<br>
+INSTITUTE/COMPANY : AtliQ Technologies <br>
+DOMAIN/LANGUGAE : React-Native<br>
+
+------
 
