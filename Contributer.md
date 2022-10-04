@@ -72,4 +72,9 @@ DOMAIN/LANGUGAE : PYTHON<br>
 
 ------
 
+NAME : PRITIKA BHAR <br>
+GITHUB :    https://github.com/pritika163 <br>
+INSTITUTE/COMPANY : ACADEMY OF TECHNOLOGY, ADISAPTAGRAM <br>
+DOMAIN/LANGUGAE : JAVA <br>
 
+------
