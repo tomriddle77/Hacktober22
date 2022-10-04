@@ -72,6 +72,11 @@ DOMAIN/LANGUGAE : PYTHON<br>
 
 ------
 
+NAME : Sahil Satyam <br>
+GITHUB : [Github handle Link](https://github.com/SahilSatyam) <br>
+INSTITUTE/COMPANY : SRM IST <br>
+DOMAIN/LANGUGAE YOU HAD CONTRIBUTED TO :PYTHON || DATA-SCIENCE<br>
+
 
 NAME : KRINISH RADADIYA  <br>
 GITHUB :  https://github.com/krinish291<br>
