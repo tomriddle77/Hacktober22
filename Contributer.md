@@ -33,7 +33,7 @@ DOMAIN: Data Science <br>
 
 NAME :  Swoyam Siddharth Nayak<br>
 GITHUB :  Swoyam2609<br>
-INSTITUTE/COMPANY : IIIT Bhubaneswar<br>
+INSTITUTE/COMPANY : IIIT Bhubanehttps://github.com/tomriddle77/Hacktober22/pull/87/conflict?name=Contributer.md&ancestor_oid=0ffdb0dabc449d5d77b2486dbe060c805a2fe997&base_oid=5c88b2a2585d8444fe50307a2d24ee095bd25d1a&head_oid=bb0ed8c36a3c968cfa92e59d3c5b1e41d0a24359swar<br>
 DOMAIN/LANGUGAE : C++<br>
 -----
 
@@ -70,14 +70,17 @@ GITHUB :  https://github.com/AdityaMandage<br>
 INSTITUTE/COMPANY : MODERN EDUCATION SOCIETY'S COLLEGE OF ENGINEERING,PUNE <br>
 DOMAIN/LANGUGAE : PYTHON<br>
 
-------
+-----
 
+NAME : Smruti Ranjan <br>
+GITHUB :  https://github.com/c99SRS <br>
+INSTITUTE/COMPANY : IIIT <br>
+DOMAIN/LANGUGAE : Java <br>
+=======
 NAME : PRITIKA BHAR <br>
 GITHUB :    https://github.com/pritika163 <br>
 INSTITUTE/COMPANY : ACADEMY OF TECHNOLOGY, ADISAPTAGRAM <br>
 DOMAIN/LANGUGAE : JAVA <br>
-
- 
 ------
 NAME : KRINISH RADADIYA  <br>
 GITHUB :  https://github.com/krinish291<br>
@@ -85,4 +88,3 @@ INSTITUTE/COMPANY : AtliQ Technologies <br>
 DOMAIN/LANGUGAE : React-Native<br>
 
 ------
-
