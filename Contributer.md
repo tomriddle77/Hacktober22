@@ -86,3 +86,10 @@ DOMAIN/LANGUGAE : React-Native<br>
 
 ------
 
+NAME : Prashant Bhapkar <br>
+GITHUB : https://github.com/Prashant-Bhapkar <br>
+INSTITUTE/COMPANY : COEP Pune <br>
+DOMAIN/LANGUGAE : C++ <br>
+
+------
+
