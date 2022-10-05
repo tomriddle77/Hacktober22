@@ -86,3 +86,9 @@ DOMAIN/LANGUGAE : React-Native<br>
 
 ------
 
+NAME : Alvin Manoj Alex <br>
+GITHUB : https://github.com/AlvinManojAlex <br>
+INSTITUTE/COMPANY : Vellore Institute of Technology, Chennai <br>
+DOMAIN/LANGUGAE : Python <br>
+
+------
