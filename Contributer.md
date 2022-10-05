@@ -51,6 +51,13 @@ DOMAIN/LANGUGAE : C++<br>
 
 -----
 
+NAME :  Abhishek S G<br>
+GITHUB :  abhisheksg222<br>
+INSTITUTE/COMPANY : Mindtree<br>
+DOMAIN/LANGUGAE : Python<br>
+
+-----
+
 NAME :  Cho Maro<br>
 GITHUB :  Maglionaire<br>
 INSTITUTE/COMPANY : KMITL<br>
