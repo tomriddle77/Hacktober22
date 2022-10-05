@@ -1,7 +1,6 @@
 # To run this random story generator script, from root directory:
-#   1) cd into 'projects' then 
-#   2) cd into 'Story Generator' then 
-#   3) run the command 'python story_generator.py' 
+#   1) cd into 'Python' folder then 
+#   2) run the command 'python story_generator.py' 
 
 import random
 
