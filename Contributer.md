@@ -86,3 +86,9 @@ DOMAIN/LANGUGAE : React-Native<br>
 
 ------
 
+NAME :  ANIRUDDHO MITRA<br>
+GITHUB :  https://github.com/aniruddho-mitra<br>
+INSTITUTE/COMPANY : SJC Institute Of Technology <br>
+DOMAIN/LANGUGAE : JAVA<br>
+
+------
