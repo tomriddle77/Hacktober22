@@ -86,3 +86,8 @@ DOMAIN/LANGUGAE : React-Native<br>
 
 ------
 
+NAME : ABHISHEK DASGUPTA <br>
+GITHUB :  https://github.com/abhishekgit03<br>
+INSTITUTE/COMPANY : DR. B.C ROY ENGINEERING COLLEGE,DURGAPUR <br>
+DOMAIN/LANGUGAE : PYTHON<br>
+
