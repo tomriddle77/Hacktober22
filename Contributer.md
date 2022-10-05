@@ -86,3 +86,9 @@ DOMAIN/LANGUGAE : React-Native<br>
 
 ------
 
+NAME :  Vansh Raj <br>
+GITHUB :  https://github.com/vansh-2266 <br>
+INSTITUTE/COMPANY : Bharati Vidhyapeeth College of Engineering, Pune <br>
+DOMAIN/LANGUGAE : C/C++, HTML, CSS, JavaScript, React<br>
+
+------
