@@ -44,9 +44,9 @@ DOMAIN/LANGUGAE : C++<br>
 
 -----
 
-NAME :  Vidhi Angrish<br>
-GITHUB :  vd152<br>
-INSTITUTE/COMPANY : Maharaja Surajmal Institute of Technology<br>
+NAME :  AMULYA MAURYA<br>
+GITHUB :  amulya77<br>
+INSTITUTE/COMPANY : Chanandigarh University<br>
 DOMAIN/LANGUGAE : C++<br>
 
 -----
