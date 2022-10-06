@@ -86,3 +86,9 @@ DOMAIN/LANGUGAE : React-Native<br>
 
 ------
 
+NAME :  Simeon Trust <br>
+GITHUB :  github.com/Trust-007 <br>
+INSTITUTE/COMPANY : Microverse<br>
+DOMAIN: Python <br>
+
+------
