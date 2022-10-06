@@ -86,3 +86,7 @@ DOMAIN/LANGUGAE : React-Native<br>
 
 ------
 
+NAME : SUBHAJIT GORAI  <br>
+GITHUB :  https://github.com/Subhajitongit<br>
+INSTITUTE/COMPANY : Dr. B. C. Roy Engineering College <br>
+DOMAIN/LANGUGAE : C++<br>
