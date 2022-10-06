@@ -85,4 +85,11 @@ INSTITUTE/COMPANY : AtliQ Technologies <br>
 DOMAIN/LANGUGAE : React-Native<br>
 
 ------
+ 
 
+NAME : VIVEK AGARWAL  <br>
+GITHUB :  https://github.com/vivekagarwal2349<br>
+INSTITUTE/COMPANY : IIT BHU <br>
+DOMAIN/LANGUGAE : C++<br>
+
+------
