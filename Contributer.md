@@ -86,3 +86,11 @@ DOMAIN/LANGUGAE : React-Native<br>
 
 ------
 
+-----
+
+NAME : TANMAY GHARAT <br>
+GITHUB :  https://github.com/TAMMY1942<br>
+INSTITUTE/COMPANY : Vidyalankar <br>
+DOMAIN/LANGUGAE : PYTHON <br>
+
+------
