@@ -86,3 +86,9 @@ DOMAIN/LANGUGAE : React-Native<br>
 
 ------
 
+NAME : KISHAN SHINDE <br>
+GITHUB :  https://github.com/kishanshinde<br>
+INSTITUTE/COMPANY : Sri Venkateshwara College of Engineering <br>
+DOMAIN/LANGUGAE : Python<br>
+
+------
