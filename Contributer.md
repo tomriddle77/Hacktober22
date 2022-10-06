@@ -72,6 +72,14 @@ DOMAIN/LANGUGAE : PYTHON<br>
 
 ------
 
+NAME : Gurkeerat Singh <br>
+GITHUB : https://github.com/Keerat666<br>
+INSTITUTE/COMPANY : Infosys<br>
+DOMAIN/LANGUGAE : Java<br>
+
+------
+
+=======
 NAME : PRITIKA BHAR <br>
 GITHUB :    https://github.com/pritika163 <br>
 INSTITUTE/COMPANY : ACADEMY OF TECHNOLOGY, ADISAPTAGRAM <br>
