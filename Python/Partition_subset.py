@@ -1,10 +1,3 @@
-# Python3 program for the
-# above approach
-# A Recursive C program to
-# solve minimum sum partition
-# problem.
-
-# Function to find the minimum sum
 
 
 def findMinRec(arr, i, sumCalculated,
@@ -57,4 +50,3 @@ if __name__ == "__main__":
 		"between two sets is ",
 		findMin(arr, n))
 
-# This code is contributed by Chitranayal
