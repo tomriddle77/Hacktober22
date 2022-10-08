@@ -86,3 +86,9 @@ DOMAIN/LANGUGAE : React-Native<br>
 
 ------
 
+NAME : Arpit Jain <br>
+GITHUB : https://github.com/arpit-22 <br>
+INSTITUTE/COMPANY : Chitkara University <br>
+DOMAIN/LANGUGAE : Python <br>
+
+------
