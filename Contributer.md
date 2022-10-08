@@ -84,5 +84,11 @@ GITHUB :  https://github.com/krinish291<br>
 INSTITUTE/COMPANY : AtliQ Technologies <br>
 DOMAIN/LANGUGAE : React-Native<br>
 
-------
+-----
 
+NAME :  Kritika Taank<br>
+GITHUB :  https://github.com/kritikataank <br>
+INSTITUTE/COMPANY : Sri Venkateshwara College of Engineering, Bengaluru <br>
+DOMAIN/LANGUGAE : Python<br>
+
+------
