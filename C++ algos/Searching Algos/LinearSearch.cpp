@@ -16,7 +16,9 @@ int main(void)
 {
     //Declaration of a sample array for demonstration
     int arr[] = { 2, 3, 4, 10, 40 };
-    int x = 10;
+    int x;
+    cout<<"Enter the element to be searched in array : "; 
+    cin>>x;
     int N = sizeof(arr) / sizeof(arr[0]);
  
     // Function call
