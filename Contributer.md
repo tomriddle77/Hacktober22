@@ -86,3 +86,11 @@ DOMAIN/LANGUGAE : React-Native<br>
 
 ------
 
+-----
+
+NAME :  Shivansh Bansal <br>
+GITHUB :  https://github.com/CrazyYoungBroo <br>
+INSTITUTE/COMPANY : JPS <br>
+DOMAIN/LANGUGAE : Python <br>
+
+------
