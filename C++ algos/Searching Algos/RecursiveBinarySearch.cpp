@@ -9,7 +9,7 @@ int binarySearch(int arr[], int l, int r, int x)
 {
     if (r >= l)
     {
-        int mid = l + (r - l) / 2;
+        int mid = ( l + r ) / 2;
 
         // If the element is present at the middle
         // itself
@@ -18,12 +18,13 @@ int binarySearch(int arr[], int l, int r, int x)
 
         // If element is smaller than mid, then
         // it can only be present in left subarray
-        if (arr[mid] > x)
+        else if (arr[mid] > x)
             return binarySearch(arr, l, mid - 1, x);
 
         // Else the element can only be present
         // in right subarray
-        return binarySearch(arr, mid + 1, r, x);
+        else
+            return binarySearch(arr, mid + 1, r, x);
     }
 
     // We reach here when element is not
@@ -35,7 +36,9 @@ int main()
 {
     // Declaration of a sample array
     int arr[] = {2, 3, 4, 10, 40};
-    int x = 10;
+    int x;
+    cout<<"Enter element to be searched : ";
+    cin>>x;
     int n = sizeof(arr) / sizeof(arr[0]);
     int result = binarySearch(arr, 0, n - 1, x);
     (result == -1)
