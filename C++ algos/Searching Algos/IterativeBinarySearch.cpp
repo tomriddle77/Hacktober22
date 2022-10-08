@@ -9,7 +9,7 @@ int binarySearch(int arr[], int l, int r, int x)
 {
     while (l <= r)
     {
-        int m = l + (r - l) / 2;
+        int m = (l + r) / 2;
 
         // Check if x is present at mid
         if (arr[m] == x)
@@ -32,7 +32,9 @@ int main()
 {
     // Sample declarationf of an array
     int arr[] = {2, 3, 4, 10, 40};
-    int x = 10;
+    int x;
+    cout<<"Enter element to be searched : ";
+    cin>>x;
     int n = sizeof(arr) / sizeof(arr[0]);
     int result = binarySearch(arr, 0, n - 1, x);
     (result == -1)
