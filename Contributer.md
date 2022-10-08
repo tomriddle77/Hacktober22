@@ -85,4 +85,11 @@ INSTITUTE/COMPANY : AtliQ Technologies <br>
 DOMAIN/LANGUGAE : React-Native<br>
 
 ------
+-----
 
+NAME :  Kasuhik karan singh <br>
+GITHUB : https://github.com/k562  <br>
+INSTITUTE/COMPANY : Galgotias University <br>
+DOMAIN/LANGUGAE : Java <br>
+
+------
