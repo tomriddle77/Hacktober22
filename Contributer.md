@@ -86,3 +86,11 @@ DOMAIN/LANGUGAE : React-Native<br>
 
 ------
 
+NAME : Ajey Prasand  <br>
+GITHUB :  https://github.com/ajeyprasand<br>
+COMPANY : Amrita School Of engineering <br>
+LANGUGAE : Python<br>
+
+------
+
+
