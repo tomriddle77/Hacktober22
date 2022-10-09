@@ -86,3 +86,9 @@ DOMAIN/LANGUGAE : React-Native<br>
 
 ------
 
+NAME : Shrivardhan Patil <br>
+GITHUB : https://github.com/shrivardha <br>
+INSTITUTE/COMPANY : Indian Institute of Technology (IIT) BHU Varanasi <br>
+DOMAIN/LANGUGAE : HTML,CSS,JS <br>
+
+-------
