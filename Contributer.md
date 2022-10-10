@@ -14,10 +14,10 @@ DOMAIN/LANGUGAE YOU HAD CONTRIBUTED TO :PYTHON || JAVA || DATA-SCIENCE ||--  <br
 ```
 -----
 
-NAME :  <br>
-GITHUB :  <br>
-INSTITUTE/COMPANY : College Name/Comapny Name <br>
-DOMAIN/LANGUGAE : <br>
+NAME : Jyotideep Acharjee <br>
+GITHUB : jyotideepjee1803 <br>
+INSTITUTE/COMPANY : IIIT Bhubaneswar <br>
+DOMAIN/LANGUGAE : C++<br>
 
 ------
 ```
