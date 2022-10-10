@@ -86,3 +86,11 @@ DOMAIN/LANGUGAE : React-Native<br>
 
 ------
 
+
+------
+NAME : VIKRANT SINGH  <br>
+GITHUB :  https://github.com/VikrantSingh16<br>
+INSTITUTE/COMPANY : Amity University <br>
+DOMAIN/LANGUGAE : React<br>
+
+------
