@@ -3,9 +3,9 @@
 
 # Input the length of 3 sides a, b, c of the triangle
 
-a = int(input("a: "))
-b = int(input("b: "))
-c = int(input("c: "))
+a = int(input("Enter the first side of triangle a: "))
+b = int(input("Enter the second side of triangle b: "))
+c = int(input("Enter the third side of triangle c: "))
 
 # Equilateral Triangle: all sides a, b, c are equal i.e. a=b=c
 if a==b==c:
