@@ -85,4 +85,8 @@ INSTITUTE/COMPANY : AtliQ Technologies <br>
 DOMAIN/LANGUGAE : React-Native<br>
 
 ------
+NAME : Vishal Vinay Ram  <br>
+GITHUB :VIshalVR-21  <br>
+INSTITUTE/COMPANY : Bangalore University<br>
+DOMAIN/LANGUGAE : App Devemelopment||C++ <br>
 
