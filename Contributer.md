@@ -77,6 +77,13 @@ GITHUB :    https://github.com/pritika163 <br>
 INSTITUTE/COMPANY : ACADEMY OF TECHNOLOGY, ADISAPTAGRAM <br>
 DOMAIN/LANGUGAE : JAVA <br>
 
+------
+
+NAME : SHREYA GUPTA <br>
+GITHUB :    https://github.com/GShreya06 <br>
+INSTITUTE/COMPANY : SRCASW , UNIVERSITY OF DELHI , DELHI <br>
+DOMAIN/LANGUGAE : PYTHON <br>
+
  
 ------
 NAME : KRINISH RADADIYA  <br>
