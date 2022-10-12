@@ -85,4 +85,8 @@ INSTITUTE/COMPANY : AtliQ Technologies <br>
 DOMAIN/LANGUGAE : React-Native<br>
 
 ------
+NAME : SARNABH HALDAR  <br>
+GITHUB :  https://github.com/CODERdotEXE <br>
+INSTITUTE/COMPANY : IEM KOLKATA <br>
+DOMAIN/LANGUGAE : WEB DEVELOPMENT/JAVA <br>
 
