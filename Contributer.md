@@ -85,4 +85,8 @@ INSTITUTE/COMPANY : AtliQ Technologies <br>
 DOMAIN/LANGUGAE : React-Native<br>
 
 ------
+NAME :ISHAN ROY BARMAN  <br>
+GITHUB :  https://github.com/RoyIshanBarman<br>
+INSTITUTE/COMPANY : UNIVERSITY OF ENGINEERING AND MANAGEMENT, KOLKATA <br>
+DOMAIN/LANGUGAE : JAVA <br>
 
