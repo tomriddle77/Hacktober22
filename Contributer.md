@@ -86,3 +86,10 @@ DOMAIN/LANGUGAE : React-Native<br>
 
 ------
 
+NAME : Kandeepan Yathuraj  <br>
+GITHUB :  https://github.com/yathu1<br>
+INSTITUTE/COMPANY : Sabaragamuwa University <br>
+DOMAIN/LANGUGAE : C<br>
+
+
+------
