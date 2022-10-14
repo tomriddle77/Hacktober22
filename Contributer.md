@@ -86,3 +86,10 @@ DOMAIN/LANGUGAE : React-Native<br>
 
 ------
 
+
+NAME : ANANT BHARTI <br>
+GITHUB :  https://github.com/anantbharti<br>
+INSTITUTE/COMPANY : NIT JAMSHEDPUR <br>
+DOMAIN/LANGUGAE : C++ <br>
+
+------
