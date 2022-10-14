@@ -86,3 +86,10 @@ DOMAIN/LANGUGAE : React-Native<br>
 
 ------
 
+------
+NAME : Vruti Dobariya<br>
+GITHUB : https://github.com/vruti1121<br>
+INSTITUTE/COMPANY : Pandit Deendayal Energy University<br>
+DOMAIN/LANGUGAE : Python<br>
+
+------
