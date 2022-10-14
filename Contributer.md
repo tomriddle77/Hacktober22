@@ -85,4 +85,8 @@ INSTITUTE/COMPANY : AtliQ Technologies <br>
 DOMAIN/LANGUGAE : React-Native<br>
 
 ------
-
+NAME : Saurabh Srivastava <br>
+GITHUB : https://github.com/Saurabh-9 <br>
+INSTITUTE/COMPANY : Chandigarh University <br>
+DOMAIN/LANGUGAE : C++<br>
+-----
