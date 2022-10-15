@@ -40,7 +40,7 @@ Hacktoberfest22 project and codes
 
 - Fork this Repository to your GITHUB using the button at the top 
 - If you have forked the Repository previously then `SYNC FORK` Before you proceed further.
-- Clone your forked repository to your pc ( git clone "url from clone option.)
+- Clone your forked repository to your pc ( git clone <url from clone option>.)
 - Make contributions to the `Specified-Domain/language` folder only will be counted towards the Hacktoberfest 2022
 - Add your files (`git add -A`), commit (`git commit -m "added myself"`) and push (`git push origin new-user`)
 - Add your profile data in `CONTRIBUTING.md` .
