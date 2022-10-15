@@ -85,4 +85,7 @@ INSTITUTE/COMPANY : AtliQ Technologies <br>
 DOMAIN/LANGUGAE : React-Native<br>
 
 ------
-
+NAME :  Hemant Lotlikar <br>
+GITHUB :  https://github.com/HemantL04 <br>
+INSTITUTE/COMPANY : Shree L. R. Tiwari College of Engineering <br>
+DOMAIN/LANGUGAE : Python<br>
