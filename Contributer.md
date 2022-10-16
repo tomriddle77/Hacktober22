@@ -86,3 +86,10 @@ DOMAIN/LANGUGAE : React-Native<br>
 
 ------
 
+NAME : Marcus Visic <br>
+GITHUB :    https://github.com/mvisic <br>
+INSTITUTE/COMPANY : Leaf Marketing <br>
+DOMAIN/LANGUGAE : Python <br>
+
+ 
+------
