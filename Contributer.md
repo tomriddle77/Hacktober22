@@ -86,3 +86,9 @@ DOMAIN/LANGUGAE : React-Native<br>
 
 ------
 
+NAME :  Angel Mary Alex<br>
+GITHUB :  https://github.com/Angel-cec3<br>
+INSTITUTE/COMPANY : College of Engineering Chengannur <br>
+DOMAIN/LANGUGAE : Python<br>
+
+------
