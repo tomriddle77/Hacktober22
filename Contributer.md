@@ -85,4 +85,7 @@ INSTITUTE/COMPANY : AtliQ Technologies <br>
 DOMAIN/LANGUGAE : React-Native<br>
 
 ------
-
+NAME :  Tushar Mukharji<br>
+GITHUB :  iamtusharmukharji<br>
+INSTITUTE/COMPANY : Ascendeum<br>
+DOMAIN/LANGUGAE : Python<br>
