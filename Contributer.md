@@ -85,4 +85,7 @@ INSTITUTE/COMPANY : AtliQ Technologies <br>
 DOMAIN/LANGUGAE : React-Native<br>
 
 ------
-
+NAME : ASHI DUBEY <br>
+GITHUB : https://github.com/Ashi-00 <br>
+INSTITUTE/COMPANY : Rajasthan Technical University, Kota <br>
+DOMAIN/LANGUGAE YOU HAD CONTRIBUTED TO :PYTHON  <br>
