@@ -83,6 +83,11 @@ NAME : KRINISH RADADIYA  <br>
 GITHUB :  https://github.com/krinish291<br>
 INSTITUTE/COMPANY : AtliQ Technologies <br>
 DOMAIN/LANGUGAE : React-Native<br>
-
 ------
 
+------
+NAME :  SOUVIK BHATTACHARYA <br>
+GITHUB : https://github.com/Souvik-Bhattacharya <br>
+INSTITUTE/COMPANY : RCC INSTITUTE OF INFORMATION TECHNOLOGY <br>
+DOMAIN/LANGUGAE : PYTHON <br>
+------
