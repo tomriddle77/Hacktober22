@@ -86,3 +86,7 @@ DOMAIN/LANGUGAE : React-Native<br>
 
 ------
 
+NAME : RIJUSHREE GUHA
+GITHUB : https://github.com/Rijushree123
+INSTITUTE/COMPANY : UEM KOLKATA
+DOMAIN/LANGUGAE : Python
