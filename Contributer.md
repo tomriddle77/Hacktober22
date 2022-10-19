@@ -32,7 +32,7 @@ DOMAIN: Data Science <br>
 NAME :  Pranay Kharabe <br>
 GITHUB :  https://github.com/pranay202 <br>
 INSTITUTE/COMPANY : S B Jain Institute of Technology, Nagpur<br>
-DOMAIN: Java <br>
+DOMAIN: Java, Javascript, Python <br>
 -----
 
 NAME :  Swoyam Siddharth Nayak<br>
