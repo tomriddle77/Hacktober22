@@ -85,4 +85,9 @@ INSTITUTE/COMPANY : AtliQ Technologies <br>
 DOMAIN/LANGUGAE : React-Native<br>
 
 ------
+NAME :  Sahaj Garg <br>
+GITHUB :  https://github.com/gargsahaj<br>
+INSTITUTE/COMPANY : MTX Group <br>
+DOMAIN/LANGUGAE : C++ <br>
 
+------
