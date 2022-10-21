@@ -31,6 +31,14 @@ DOMAIN: Data Science <br>
 -----
 -----
 
+NAME : Naveen Nizam <br>
+GITHUB : https://github.com/naveennizam <br>
+INSTITUTE/COMPANY : College Name/Comapny Name <br>
+DOMAIN/LANGUGAE : Python || C || JavaScript <br>
+
+------
+-----
+
 NAME :  Swoyam Siddharth Nayak<br>
 GITHUB :  Swoyam2609<br>
 INSTITUTE/COMPANY : IIIT Bhubaneswar<br>
