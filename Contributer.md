@@ -86,3 +86,9 @@ DOMAIN/LANGUGAE : React-Native<br>
 
 ------
 
+NAME : Yuvraj Singh Yadav  <br>
+GITHUB :  https://github.com/yyuvraj54<br>
+INSTITUTE/COMPANY : JSS Academy of Technical Education<br>
+DOMAIN/LANGUGAE : PYTHON<br>
+
+------
