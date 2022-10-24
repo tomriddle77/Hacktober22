@@ -86,3 +86,11 @@ DOMAIN/LANGUGAE : React-Native<br>
 
 ------
 
+
+NAME : ISHAAN MAKAM <br>
+GITHUB :  https://github.com/schoolaccountmakami<br>
+INSTITUTE/COMPANY : NEWPORT HIGH SCHOOL <br>
+DOMAIN/LANGUGAE : PYTHON<br>
+
+------
+
