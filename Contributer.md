@@ -85,4 +85,7 @@ INSTITUTE/COMPANY : AtliQ Technologies <br>
 DOMAIN/LANGUGAE : React-Native<br>
 
 ------
-
+NAME :  Mustkeem Arsh <br>
+GITHUB : https://github.com/MustkeemArsh10 <br>
+INSTITUTE/COMPANY : Jabalpur Engineering College <br>
+DOMAIN/LANGUGAE : C++ <br>
