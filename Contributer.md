@@ -86,3 +86,9 @@ DOMAIN/LANGUGAE : React-Native<br>
 
 ------
 
+NAME :  Sumudu Sujith <br>
+GITHUB :  https://github.com/sumudusujith <br>
+INSTITUTE/COMPANY : IIT Colombo <br>
+DOMAIN/LANGUGAE : C++
+
+------
