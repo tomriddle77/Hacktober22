@@ -85,4 +85,7 @@ INSTITUTE/COMPANY : AtliQ Technologies <br>
 DOMAIN/LANGUGAE : React-Native<br>
 
 ------
-
+NAME :  Shruti Garg <br>
+GITHUB :  gargshruti <br>
+INSTITUTE/COMPANY : Rajasthan Technical University, Kota <br>
+DOMAIN/LANGUGAE : C++ <br>
