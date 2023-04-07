@@ -47,7 +47,12 @@ INSTITUTE/COMPANY : Maharaja Surajmal Institute of Technology<br>
 DOMAIN/LANGUGAE : C++<br>
 
 -----
+NAME : Ahmad Bin Abdul Jabbar <br>
+GITHUB : https://github.com/AhmadBinAbdulJabbar <br>
+INSTITUTE/COMPANY : Islamia University of Bahawalpur <br>
+DOMAIN/LANGUGAE YOU HAD CONTRIBUTED TO : C/C++ <br>
 
+-----
 NAME :  AMULYA MAURYA<br>
 GITHUB :  amulya77<br>
 INSTITUTE/COMPANY : Chanandigarh University<br>
