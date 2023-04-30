@@ -89,4 +89,11 @@ INSTITUTE/COMPANY : AtliQ Technologies <br>
 DOMAIN/LANGUGAE : React-Native<br>
 
 ------
+-----
 
+NAME : aasit babele <br>
+GITHUB : https://github.com/enc-rypto <br>
+INSTITUTE/COMPANY : jabalput engineering college <br>
+DOMAIN/LANGUGAE : python <br>
+
+------
