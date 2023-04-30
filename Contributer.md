@@ -89,4 +89,8 @@ INSTITUTE/COMPANY : AtliQ Technologies <br>
 DOMAIN/LANGUGAE : React-Native<br>
 
 ------
+NAME : NEHA MUNDASE  <br>
+GITHUB :  https://github.com/neha-mundase20<br>
+INSTITUTE/COMPANY : INTERNATIONAL INSTITUTE OF INFORMATION TECHNOLOGY,PUNE <br>
+DOMAIN/LANGUGAE : C++ <br>
 
