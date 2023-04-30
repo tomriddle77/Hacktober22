@@ -90,3 +90,7 @@ DOMAIN/LANGUGAE : React-Native<br>
 
 ------
 
+NAME : HARSH SHARMA <br>
+GITHUB :https://github.com/harshbam18 <br>
+INSTITUTE/COMPANY : GRAPHIC ERA DEEMED TO BE UNIVERSITY <br>
+DOMAIN/LANGUGAE : PYTHON <br>
